@@ -1,0 +1,56 @@
+ /* el elemento p en este caso se llama selector */
+.titulo-principal{
+    padding-left: 30px;
+}
+
+#banner{
+    width: 100%;
+}
+
+.principal{
+    background: #CCCCCC;
+    padding: 20px;
+}
+
+
+
+ p{ 
+
+    text-align: center;
+    
+}
+
+
+
+em strong{
+    color: red;
+}
+
+#elcolo{
+    font-size: 50px;
+}
+
+.diferenciales{
+    background: #FFFFFF;
+    padding: 30px;
+    
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block; /* Block viene por defecto en las listas e inline por defecto en las imagenes*/
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales{
+    width: 50%;
+}
